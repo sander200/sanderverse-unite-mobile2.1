@@ -1,0 +1,1 @@
+Fix in progress: map paths + sprites without boxes + Omega Nemesis + visible attacks.
