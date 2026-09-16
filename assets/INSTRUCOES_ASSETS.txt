@@ -1,0 +1,10 @@
+Assets 2.0
+- sander.png / sheet_sander.png
+- cristian.png / sheet_cristian.png
+- babalu.png / sheet_babalu.png / sheet_especialista_atk.png
+- nemesis.png / sheet_nemesis.png
+- calopsita_polo.png / sheet_sanderai.png
+- calopsita_lupe.png / sheet_lupe.png
+- calopsita_topete.png / sheet_topete.png
+- map_arena.jpg / aura_energy.png / logo_banner.jpg / mini_logo.png
+Fundos pretos/xadrez removidos nas sheets de jogo.
